@@ -13,7 +13,9 @@
     width: 40%;
     justify-content: flex-start;
     font-size: 24px;
-    font-family: 'League Spartan', sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+               "Open Sans", "Helvetica Neue", Arial, sans-serif;
   }
 
   #nav h3 {
@@ -66,7 +68,9 @@
   }
 
   #over1 h1 {
-    font-family: 'League Spartan', sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+               "Open Sans", "Helvetica Neue", Arial, sans-serif;
     font-size: 5.6vw;
   }
 
@@ -298,7 +302,9 @@
     margin-top: 0;
     width: auto;
     height: auto;
-    font-family: 'League Spartan', sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+               "Open Sans", "Helvetica Neue", Arial, sans-serif;
 }
 
 .page4p9 > h2 {
