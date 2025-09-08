@@ -1,14 +1,3 @@
-@font-face {
-    font-family: 'monument'; /* The name you will use in your CSS */
-    src: url('path/to/your/font/monument.woff2') format('woff2'),
-         url('path/to/your/font/monument.woff') format('woff'),
-         url('path/to/your/font/monument.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap; /* Improves performance by showing a fallback font while it loads */
-}
-
-
 *{
     margin: 0;
     padding: 0;
